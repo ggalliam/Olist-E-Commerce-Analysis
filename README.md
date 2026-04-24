@@ -2,7 +2,6 @@
 
 <img width="363" height="228" alt="Screenshot 2026-04-23 at 9 02 08 PM" src="https://github.com/user-attachments/assets/1642f5a6-0674-40ea-b4a0-84ed38df1aa9" />
 
-
 ## Objective
 
 Olist is a Brazilian e-commerce platform that connects businesses to customers across Brazil. It is a marketplace, where merchants can list their products and services and customers can browse and purchase them online. E-commerce landscape in Brazil can be observed through looking at a company like Olist to identify opportunities for growth and optimization.
@@ -10,6 +9,7 @@ Olist is a Brazilian e-commerce platform that connects businesses to customers a
 In order to optimize growth, this analysis is looking closer into specific sales, customer profiles, and individual shop performance to improve revenue and customer satisfaction.
 
 ## Dataset
+
 Olist E-commerce dataset contains over 100k+ rows of information from September of 2016 to October of 2018. During this time period 32951 products were sold. The dataset is divided in 8 files: orders, payments, reviews, items, products, sellers, customers, geolocation.
 
 <img width="665" height="403" alt="Screenshot 2026-04-23 at 9 00 32 PM" src="https://github.com/user-attachments/assets/20d75e3c-c2f3-427d-a1c4-7ae480e84f84" />
@@ -22,7 +22,7 @@ Some key quations will navigate further optimization strategies for the company.
 - What is the average profit from a singular customer? Are thre any factors that affect the amount of money a customer spends?
 - Overall, what is the revenue of every shop? Why do they differ? 
 
-This project evaluates how revenue is distributed across sellers and product categories. It identifies top-performing sellers and examines marketplace concentration. These insights inform strategies to improve platform resilience and seller diversification. Findings in customers and shop individual factors that affect different revenues will support targeted optimization of supply chain operations.
+This project evaluates how revenue is distributed across sellers and product categories. It identifies top-performing products and examines marketplace concentration. These insights inform strategies to improve platform resilience and seller diversification. Findings in customer and marketplace individualistic factors, that affect different revenues, will immensely support targeted optimization of supply chain operations.
 
 ## Methodology and technical skill set
   
