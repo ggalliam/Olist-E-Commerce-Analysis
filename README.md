@@ -2,6 +2,7 @@
 
 <img width="363" height="228" alt="Screenshot 2026-04-23 at 9 02 08 PM" src="https://github.com/user-attachments/assets/1642f5a6-0674-40ea-b4a0-84ed38df1aa9" />
 
+
 ## Objective
 
 Olist is a Brazilian e-commerce platform that connects businesses to customers across Brazil. It is a marketplace, where merchants can list their products and services and customers can browse and purchase them online. E-commerce landscape in Brazil can be observed through looking at a company like Olist to identify opportunities for growth and optimization.
@@ -13,6 +14,7 @@ In order to optimize growth, this analysis is looking closer into specific sales
 Olist E-commerce dataset contains over 100k+ rows of information from September of 2016 to October of 2018. During this time period 99,441 products were sold. The dataset is divided in 8 files: orders, payments, reviews, items, products, sellers, customers, geolocation.
 
 <img width="665" height="403" alt="Screenshot 2026-04-23 at 9 00 32 PM" src="https://github.com/user-attachments/assets/20d75e3c-c2f3-427d-a1c4-7ae480e84f84" />
+
 
 ## Business Problem 
 
@@ -41,9 +43,11 @@ Between 2016 and 2018, computer accessories were selling the most growth rate wi
 
 <img width="1089" height="484" alt="Screenshot 2026-04-23 at 9 38 00 PM" src="https://github.com/user-attachments/assets/3ca704a9-dcff-4468-91db-e7fd5c335f92" />
 
+
 The highest profit margin of 79% is home_comfort_2. The lowest is small home_appliances_2. Since the margin between the categories is pretty big, about 10%, then Olist can implement strategies for low-profit margin products, like home appliances like promotions and discounts. 
 
 <img width="1043" height="429" alt="Screenshot 2026-04-23 at 9 53 44 PM" src="https://github.com/user-attachments/assets/3ff11d73-e191-4d03-878c-f3e64c5aafc7" />
+
 
 **Customer Profile**
 
@@ -52,8 +56,7 @@ In order to undertand how revenue is effected, it is crucial to look at the reve
 
 <img width="845" height="450" alt="Screenshot 2026-04-23 at 11 03 03 PM" src="https://github.com/user-attachments/assets/3ff775c3-df25-441d-9472-7ba9f22e8c7b" />
 
-
-
+Multiple interesting observations are seen after looking at customer reviews and how they are correlated to the frequency of purchses. 
 
 
 ## Key Findings
