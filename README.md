@@ -10,7 +10,7 @@ In order to optimize growth, this analysis is looking closer into specific sales
 
 ## Dataset
 
-Olist E-commerce dataset contains over 100k+ rows of information from September of 2016 to October of 2018. During this time period 32951 products were sold. The dataset is divided in 8 files: orders, payments, reviews, items, products, sellers, customers, geolocation.
+Olist E-commerce dataset contains over 100k+ rows of information from September of 2016 to October of 2018. During this time period 99,441 products were sold. The dataset is divided in 8 files: orders, payments, reviews, items, products, sellers, customers, geolocation.
 
 <img width="665" height="403" alt="Screenshot 2026-04-23 at 9 00 32 PM" src="https://github.com/user-attachments/assets/20d75e3c-c2f3-427d-a1c4-7ae480e84f84" />
 
