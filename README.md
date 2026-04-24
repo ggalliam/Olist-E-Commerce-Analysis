@@ -18,15 +18,37 @@ Olist E-commerce dataset contains over 100k+ rows of information from September 
 
 Some key quations will navigate further optimization strategies for the company. 
 
-- Which product is the all time bestseller? Which products are bringing in the most profit out of all?
-- What is the average profit from a singular customer? Are thre any factors that affect the amount of money a customer spends?
-- Overall, what is the revenue of every shop? Why do they differ? 
+- Which product is the all time bestseller? Which category of products is bringing in the most profit?
+- What is the average profit from a singular customer? Are there any factors that affect the amount of money a customer spends? 
+- Overall, what is the revenue of every shop? Why do they differ?
+- What is the revenue of Olist as a whole? 
 
 This project evaluates how revenue is distributed across sellers and product categories. It identifies top-performing products and examines marketplace concentration. These insights inform strategies to improve platform resilience and seller diversification. Findings in customer and marketplace individualistic factors, that affect different revenues, will immensely support targeted optimization of supply chain operations.
 
-## Methodology and technical skill set
+## Methodology 
   
-The analysis involves data cleaning, transformation, and integration across multiple relational datasets. SQL is used for querying and aggregation, while Python (pandas) supports data manipulation and exploratory analysis. Data visualization techniques are applied to communicate insights effectively.
+The analysis involves data cleaning, transformation, and integration across multiple relational datasets. 
+SQL is used for querying and aggregation, while Python (pandas) supports data manipulation and exploratory analysis. 
+Data visualization techniques are applied to communicate insights effectively.
+
+## Insights 
+
+**Selling Permornace**
+
+In 2016, the top-selling product by category was furniture (decor). 
+In 2017 it was bed_bath_tables. 
+Between 2016 and 2018, computer accessories were selling the most growth rate withing a two year span. 
+
+<img width="1089" height="484" alt="Screenshot 2026-04-23 at 9 38 00 PM" src="https://github.com/user-attachments/assets/3ca704a9-dcff-4468-91db-e7fd5c335f92" />
+
+The highest profit margin of 79% is home_comfort_2. The lowest is small home_appliances_2. Since the margin between the categories is pretty big, about 10%, then Olist can implement strategies for low-profit margin products, like home appliances like promotions and discounts. 
+
+<img width="1043" height="429" alt="Screenshot 2026-04-23 at 9 53 44 PM" src="https://github.com/user-attachments/assets/3ff11d73-e191-4d03-878c-f3e64c5aafc7" />
+
+**Customer Profile**
+
+
+
 
 ## Key Findings
 
