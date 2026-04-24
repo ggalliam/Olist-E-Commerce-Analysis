@@ -56,7 +56,8 @@ In order to undertand how revenue is effected, it is crucial to look at the reve
 
 <img width="845" height="450" alt="Screenshot 2026-04-23 at 11 03 03 PM" src="https://github.com/user-attachments/assets/3ff775c3-df25-441d-9472-7ba9f22e8c7b" />
 
-Multiple interesting observations are seen after looking at customer reviews and how they are correlated to the frequency of purchses. 
+
+Multiple interesting observations are seen after looking at customer reviews and how they are correlated to the frequency of purchases. 
 
 
 ## Key Findings
