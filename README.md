@@ -7,7 +7,7 @@
 
 Olist is a Brazilian e-commerce platform that connects businesses to customers across Brazil. It is a marketplace, where merchants can list their products and services and customers can browse and purchase them online. E-commerce landscape in Brazil can be observed through looking at a company like Olist to identify opportunities for growth and optimization.
 
-In order to optimize groeth, this analysis is looking closer into sales, customer behavior, and delivery performance to improve revenue and customer satisfaction.
+In order to optimize growth, this analysis is looking closer into specific sales, customer profiles, and individual shop performance to improve revenue and customer satisfaction.
 
 ## Dataset
 Olist E-commerce dataset contains over 100k+ rows of information from September of 2016 to October of 2018. During this time period 32951 products were sold. The dataset is divided in 8 files: orders, payments, reviews, items, products, sellers, customers, geolocation.
