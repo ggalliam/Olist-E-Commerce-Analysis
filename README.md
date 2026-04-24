@@ -19,7 +19,7 @@ Olist E-commerce dataset contains over 100k+ rows of information from September 
 Some key quations will navigate further optimization strategies for the company. 
 
 - Which product is the all time bestseller? Which category of products is bringing in the most profit?
-- What is the average profit from a singular customer? Are there any factors that affect the amount of money a customer spends? 
+- How do customers influnce the revenue of the company? Which factors are essential and determine future profits?
 - Overall, what is the revenue of every shop? Why do they differ?
 - What is the revenue of Olist as a whole? 
 
@@ -46,6 +46,12 @@ The highest profit margin of 79% is home_comfort_2. The lowest is small home_app
 <img width="1043" height="429" alt="Screenshot 2026-04-23 at 9 53 44 PM" src="https://github.com/user-attachments/assets/3ff11d73-e191-4d03-878c-f3e64c5aafc7" />
 
 **Customer Profile**
+
+In order to undertand how revenue is effected, it is crucial to look at the revenue data first. Overall, timeline is reperesenting a consistent growth thoughout the years besides September of 2018 but it could be explained by the end of transaction period of the dataset. However, it is still visisble a clear trend of revenue growth. 
+
+
+<img width="845" height="450" alt="Screenshot 2026-04-23 at 11 03 03 PM" src="https://github.com/user-attachments/assets/3ff775c3-df25-441d-9472-7ba9f22e8c7b" />
+
 
 
 
