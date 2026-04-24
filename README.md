@@ -1,4 +1,4 @@
-# Olist E-Commerce-Analysis
+# Olist E-Commerce Analysis
 
 <img width="363" height="228" alt="Screenshot 2026-04-23 at 9 02 08 PM" src="https://github.com/user-attachments/assets/1642f5a6-0674-40ea-b4a0-84ed38df1aa9" />
 
