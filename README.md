@@ -13,7 +13,7 @@ In order to optimize growth, this analysis is looking closer into specific sales
 
 Olist E-commerce dataset contains over 100k+ rows of information from September of 2016 to October of 2018. During this time period 99,441 products were sold. The dataset is divided in 8 files: orders, payments, reviews, items, products, sellers, customers, geolocation.
 
-<img width="665" height="403" alt="Screenshot 2026-04-23 at 9 00 32 PM" src="https://github.com/user-attachments/assets/20d75e3c-c2f3-427d-a1c4-7ae480e84f84" />
+<img width="983" height="584" alt="Screenshot 2026-04-24 at 10 26 15 PM" src="https://github.com/user-attachments/assets/dcee3534-85d5-47fc-b36a-022958951e7f" />
 
 
 ## Business Problem 
@@ -35,12 +35,14 @@ Data visualization techniques are applied to communicate insights effectively.
 ## Insights 
 
 **Selling Permornace**
+------------------------
 
 - In 2016, the top-selling product by category was furniture (decor). 
 - In 2017 it was bed_bath_tables. 
 - Between 2016 and 2018, computer accessories were selling the most growth rate withing a two year span. 
 
-<img width="1089" height="484" alt="Screenshot 2026-04-23 at 9 38 00 PM" src="https://github.com/user-attachments/assets/3ca704a9-dcff-4468-91db-e7fd5c335f92" />
+<img width="787" height="483" alt="Screenshot 2026-04-24 at 10 28 48 PM" src="https://github.com/user-attachments/assets/a9a1586b-ad7f-4d27-bad0-54d37ba2f42c" />
+
 
 
 However, it is important to look closer into the average order value (AOV) for a more detailed picture. 
@@ -49,35 +51,39 @@ However, it is important to look closer into the average order value (AOV) for a
 - By marketing high revenue categories better, overall revenue will increase. This means implementation of targeted sales, discounts and offers.
 
   
-<img width="1302" height="582" alt="Screenshot 2026-04-24 at 4 51 19 PM" src="https://github.com/user-attachments/assets/d2cf4983-4bc1-4d1e-8450-25e69752023e" />
+<img width="999" height="573" alt="Screenshot 2026-04-24 at 10 28 18 PM" src="https://github.com/user-attachments/assets/f34d69af-0109-470c-8735-0025109f8a4a" />
+
 
 
 The highest profit margin of 79% is home_comfort_2. The lowest is small home_appliances_2. Since the margin between the categories is pretty big, about 10%, then Olist can implement strategies for low-profit margin products, like home appliances like promotions and discounts. 
 
 
-<img width="1043" height="429" alt="Screenshot 2026-04-23 at 9 53 44 PM" src="https://github.com/user-attachments/assets/3ff11d73-e191-4d03-878c-f3e64c5aafc7" />
+<img width="1009" height="574" alt="Screenshot 2026-04-24 at 10 27 53 PM" src="https://github.com/user-attachments/assets/4cd792ac-3056-440a-b86a-68e499902c3a" />
 
 
 **Revenue**
+---------------
 
 In order to undertand how revenue is effected, it is crucial to look at the revenue data first. Overall, timeline is reperesenting a consistent growth thoughout the years besides September of 2018 but it could be explained by the end of transaction period of the dataset. However, it is still visisble a clear trend of revenue growth. 
 
 
-<img width="845" height="450" alt="Screenshot 2026-04-23 at 11 03 03 PM" src="https://github.com/user-attachments/assets/3ff775c3-df25-441d-9472-7ba9f22e8c7b" />
+<img width="1194" height="581" alt="Screenshot 2026-04-24 at 10 27 14 PM" src="https://github.com/user-attachments/assets/3dd6ddea-3df8-49fc-be1b-41a7b1ec28ed" />
+
 
 **Customer Profile**
+---------------------
 
 Multiple interesting observations are seen after looking at customer reviews and how they are correlated to the frequency of purchases. Highly rates items are ordered the most, this is representing a great performance of sales. 
+<img width="785" height="476" alt="Screenshot 2026-04-24 at 10 29 49 PM" src="https://github.com/user-attachments/assets/7ffe0a25-600b-4687-8c7e-c11f66de0b64" />
 
-<img width="1032" height="336" alt="Screenshot 2026-04-23 at 11 36 17 PM" src="https://github.com/user-attachments/assets/c3a69d12-2da7-412b-8a0e-35c091b20a67" />
 
 Looking further, highly rated products have a lower average order value compared to the low-rated products. This may mean that the most expensive products are actually low-rated items. Customers care about more quality excellent rating products with lower cost. 
 
-<img width="1008" height="368" alt="Screenshot 2026-04-23 at 11 37 22 PM" src="https://github.com/user-attachments/assets/75611bee-076e-40f8-af60-b4eaa22e4738" />
 
 Moreover, in order to implenment new strategies, it is useful to undertand geographical locations where most of the customers reside. In Brazil, the biggest number of clients, almost 50% are located in Sao Paolo. Other top locations include Rio de Janeiro and Minas Gerais. Top locations can be prioritized through free or discounted shipping deals, returns and other promotions. 
 
-<img width="616" height="504" alt="Screenshot 2026-04-24 at 4 30 27 PM" src="https://github.com/user-attachments/assets/fda6495e-4626-4995-80ca-f51c29e82c67" /> 
+<img width="512" height="277" alt="Screenshot 2026-04-24 at 10 30 29 PM" src="https://github.com/user-attachments/assets/ce6102ae-6d59-4ced-aaad-f53118b709b0" />
+
 
 
 ## Recommendations 
